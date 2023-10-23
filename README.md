@@ -14,12 +14,12 @@ Welcome to my GitHub repository! I'm Raju, a passionate Full-Stack Developer wit
 - **Languages**: JavaScript (ES6+), HTML, CSS
 - **Front-end**: React.js, Redux, HTML5, CSS3, SASS, Bootstrap
 - **Back-end**: Node.js, Express.js
-- **Databases**: MongoDB, PostgreSQL
+- **Databases**: MongoDB, Mysql
 - **Version Control**: Git, GitHub
 - **Build Tools**: Webpack, Babel
 - **RESTful APIs, GraphQL**
-- **Testing**: Jest, Mocha, Chai
-- **DevOps**: Docker, AWS (S3, EC2)
+- **Testing**: Mocha, Chai
+- **DevOps**: Docker
 - **Agile/Scrum Methodologies**
 
 
