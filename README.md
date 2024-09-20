@@ -12,7 +12,7 @@ Welcome to my GitHub repository! I'm Raju, a passionate Full-Stack Developer wit
 ## Skills
 
 - **Languages**: JavaScript (ES6+), HTML, CSS
-- **Front-end**: React.js, Redux, HTML5, CSS3, SASS, Bootstrap
+- **Front-end**: React.js, Redux, HTML5, CSS3, SASS, Bootstrap, flutter
 - **Back-end**: Node.js, Express.js
 - **Databases**: MongoDB, Mysql
 - **Version Control**: Git, GitHub
