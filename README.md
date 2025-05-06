@@ -1,17 +1,16 @@
 ### 👋 Hello there!
-**I'm Raju**, a Backend Developer with 3 years of corporate experience. Currently, I'm expanding my expertise into full-stack development by mastering front-end technologies, enabling me to deliver comprehensive end-to-end solutions.
+**I'm Raju**, a Backend Developer with 3 years of corporate experience. Building on my strong backend foundation, I am actively expanding my expertise into frontend technologies to craft seamless, full-stack solutions.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif?raw=true" width="500" height="320" />
 
-## About Me
+### 💼 About Me
 
-- Full-Stack Developer
 - Node.js and React.js Enthusiast
 - Avid Problem Solver and Debugger
 - Strong Advocate for Clean Code and Best Practices
 
 
-### Languages and tools
+### 🛠️ Languages and tools
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </code>
 <code><img height="20" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> </code>
 <code><img height="20" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </code>
@@ -34,11 +33,11 @@
 
 
 
-## Contributions
+### 📈 Contributions
 
 List any open-source projects or contributions you've made. Include links to repositories, descriptions of your contributions, and their impact.
 
-## Contact Me
+### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-thandela-8a95b5232/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajuthandela@gmail.com)
