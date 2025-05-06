@@ -30,12 +30,12 @@
 <code><img height="20" src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"> </code>
 <code><img height="20" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> </code>
 <code><img height="20" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> </code>
-
+<!--
 -----
 ### 📈 Contributions
 
 List any open-source projects or contributions you've made. Include links to repositories, descriptions of your contributions, and their impact.
-
+-->
 -----
 ### 📬 Contact Me
 
