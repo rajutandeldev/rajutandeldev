@@ -3,12 +3,13 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif?raw=true" width="500" height="320" />
 
+-----
 ### 💼 About Me
 
 - Node.js and React.js Enthusiast
 - Avid Problem Solver and Debugger
 - Strong Advocate for Clean Code and Best Practices
-
+-----
 
 ### 🛠️ Languages and tools
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </code>
@@ -30,13 +31,12 @@
 <code><img height="20" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> </code>
 <code><img height="20" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> </code>
 
-
-
-
+-----
 ### 📈 Contributions
 
 List any open-source projects or contributions you've made. Include links to repositories, descriptions of your contributions, and their impact.
 
+-----
 ### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-thandela-8a95b5232/) 
