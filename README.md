@@ -33,8 +33,11 @@
 ### 📈 Contributions
 
 List any open-source projects or contributions you've made. Include links to repositories, descriptions of your contributions, and their impact.
+
 -->
 -----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 ### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-thandela-8a95b5232/) 
